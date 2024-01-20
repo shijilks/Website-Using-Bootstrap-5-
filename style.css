@@ -1,0 +1,8 @@
+.showcase {
+    background:url(image1.jpg) no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+.head{
+    font-weight: bold;
+}
